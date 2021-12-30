@@ -7,7 +7,7 @@ import SignUp from './components/authenticate'
 //Hooks
 import { useContext } from 'react'
 
-// Context Global state
+//Context Global state
 import { Authorization } from './authprovider'
 
 
