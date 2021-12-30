@@ -53,7 +53,7 @@ function Chat() {
     return (
         <div className='w-full h-[80vh] grid grid-rows-chat'>
             <div className="flex flex-col p-4 overflow-y-scroll">
-                {messages && messages.docs.map((doc, idx) => <Message key={idx} user_id={user.uid} {...doc.data()} />)}
+                {messages && messages.docs.map(doc => <Message key={doc.id} user_id={user.uid} {...doc.data()} />)}
                 <span ref={dummy}></span>
             </div>
             <form className='h-16 w-full' onSubmit={makeMessage}>
