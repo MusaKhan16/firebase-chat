@@ -1,13 +1,14 @@
 # Simple chat app using Firebase
 
 ## Demo on Desktop
-https://cdn.discordapp.com/attachments/718441789358473270/926230195344638032/video-6650433-18429fee.mp4
+https://user-images.githubusercontent.com/57375561/147790432-f216494f-7e92-4db8-8049-1b6667259f91.mp4
 
 ## Sign in and Authentication
-https://cdn.discordapp.com/attachments/718441789358473270/926230228492243034/video-6650457-b64cef07ed7c31ff776c6108a71c4cd5.mp4
+https://user-images.githubusercontent.com/57375561/147790569-4cecfdc4-9222-4483-9e45-03169fe1094c.mp4
 
 ## Mobile Demo
-https://cdn.discordapp.com/attachments/718441789358473270/926229623593906256/IMG_4966.png
+![image](https://user-images.githubusercontent.com/57375561/147790611-c42e98cc-cf14-492f-baa8-31ed7ec081d9.png)
 
 ## Mobile Chat
-https://cdn.discordapp.com/attachments/718441789358473270/926229623975575652/IMG_4965.png
+
+![image](https://user-images.githubusercontent.com/57375561/147790603-0de6cea3-3f9c-4d81-84f3-76b70c69e734.png)
